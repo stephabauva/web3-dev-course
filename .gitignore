@@ -1,2 +1,6 @@
 **/.pytest_cache/
 **/.DS_Store
+**/package-lock.json
+**/yarn.lock
+**/node-modules/
+**/cache/
